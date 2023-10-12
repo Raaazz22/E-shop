@@ -1,0 +1,8 @@
+.myproduct{
+    border-radius: 0px 20px 20px 0px;
+}
+
+.myproduct:hover{
+    background-color: rgb(27, 27, 26);
+    color:black;
+}
